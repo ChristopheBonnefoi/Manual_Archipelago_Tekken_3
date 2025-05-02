@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "name": "Xiaoyu",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Yoshimitsu",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Nina",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Law",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Hwoarang",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Eddy",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Tiger",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Paul",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "King",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Lei",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Jin",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Gon",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Doctor Boskonovitch",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Bryan",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Kuma",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Panda",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Heihachi",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Ogre",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "True Ogre",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Julia",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Gun jack",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Mokujin (M)",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Mokujin (F)",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Anna",
+            "category": ["Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Arcade Mode",
+            "category": ["Game_Mode"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Team Battle Mode",
+            "category": ["Game_Mode"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Time Attack Mode",
+            "category": ["Game_Mode"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Survival Mode",
+            "category": ["Game_Mode"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Tekken Ball Mode",
+            "category": ["Game_Mode"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Tekken Force Mode",
+            "category": ["Game_Mode"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Medium",
+            "category": ["Difficulty"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Hard",
+            "category": ["Difficulty"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Easy",
+            "category": ["Difficulty"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "KIFT Emblem",
+            "category": ["Token"],
+            "count": 10,
+            "progression": true
+        }
+    ]
+}

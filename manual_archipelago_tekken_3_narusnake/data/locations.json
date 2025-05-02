@@ -1,0 +1,6113 @@
+{
+    "data": [
+        {
+            "name": "Xiaoyu - Arcade Stage 01 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 02 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 03 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 04 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 05 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 06 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 07 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 08 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 09 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Stage 10 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Arcade Beat the Game : DreamLand?",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Arcade Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 01 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 02 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 03 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 04 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 05 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 06 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 07 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 08 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 09 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Time Attack Stage 10 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Time Attack Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Survival Win 01 Fight",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Survival Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Survival Win 05 Fight",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Survival Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Survival Win 10 Fight",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Survival Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Ball Win 01 Fight",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Ball Win 05 Fight",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Ball Win 10 Fight",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Force Stage 01 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Force Stage 02 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Force Stage 03 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Force Stage 04 Clear",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Tekken Force Beat all Stages",
+            "category": ["Xiaoyu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Xiaoyu - Get Perfect",
+            "category": ["Xiaoyu"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Xiaoyu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 01 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 02 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 03 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 04 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 05 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 06 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 07 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 08 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 09 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Stage 10 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Arcade Beat the Game : Ogre's Blood",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Arcade Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 01 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 02 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 03 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 04 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 05 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 06 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 07 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 08 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 09 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Time Attack Stage 10 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Time Attack Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Survival Win 01 Fight",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Survival Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Survival Win 05 Fight",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Survival Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Survival Win 10 Fight",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Survival Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Ball Win 01 Fight",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Ball Win 05 Fight",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Ball Win 10 Fight",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Force Stage 01 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Force Stage 02 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Force Stage 03 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Force Stage 04 Clear",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Tekken Force Beat all Stages",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            "Tekken Force Mode",
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Yoshimitsu - Get Perfect",
+            "category": ["Yoshimitsu"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Yoshimitsu"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 01 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 02 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 03 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 04 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 05 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 06 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 07 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 08 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 09 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Stage 10 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Arcade Beat the Game : War Between Sisters",
+            "category": ["Nina"],
+            "requires": [
+            "Arcade Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 01 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 02 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 03 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 04 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 05 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 06 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 07 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 08 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 09 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Time Attack Stage 10 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Time Attack Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Survival Win 01 Fight",
+            "category": ["Nina"],
+            "requires": [
+            "Survival Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Survival Win 05 Fight",
+            "category": ["Nina"],
+            "requires": [
+            "Survival Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Survival Win 10 Fight",
+            "category": ["Nina"],
+            "requires": [
+            "Survival Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Ball Win 01 Fight",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Ball Win 05 Fight",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Ball Win 10 Fight",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Force Stage 01 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Force Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Force Stage 02 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Force Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Force Stage 03 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Force Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Force Stage 04 Clear",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Force Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Tekken Force Beat all Stages",
+            "category": ["Nina"],
+            "requires": [
+            "Tekken Force Mode",
+            "Nina"
+            ]
+        },
+        {
+            "name": "Nina - Get Perfect",
+            "category": ["Nina"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Nina"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 01 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 02 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 03 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 04 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 05 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 06 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 07 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 08 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 09 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Stage 10 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Arcade Beat the Game : Middle Age",
+            "category": ["Law"],
+            "requires": [
+            "Arcade Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 01 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 02 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 03 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 04 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 05 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 06 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 07 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 08 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 09 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Time Attack Stage 10 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Time Attack Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Survival Win 01 Fight",
+            "category": ["Law"],
+            "requires": [
+            "Survival Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Survival Win 05 Fight",
+            "category": ["Law"],
+            "requires": [
+            "Survival Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Survival Win 10 Fight",
+            "category": ["Law"],
+            "requires": [
+            "Survival Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Ball Win 01 Fight",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Ball Win 05 Fight",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Ball Win 10 Fight",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Force Stage 01 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Force Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Force Stage 02 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Force Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Force Stage 03 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Force Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Force Stage 04 Clear",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Force Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Tekken Force Beat all Stages",
+            "category": ["Law"],
+            "requires": [
+            "Tekken Force Mode",
+            "Law"
+            ]
+        },
+        {
+            "name": "Law - Get Perfect",
+            "category": ["Law"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Law"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 01 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 02 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 03 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 04 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 05 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 06 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 07 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 08 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 09 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Stage 10 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Arcade Beat the Game : Rival",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Arcade Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 01 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 02 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 03 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 04 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 05 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 06 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 07 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 08 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 09 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Time Attack Stage 10 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Time Attack Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Survival Win 01 Fight",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Survival Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Survival Win 05 Fight",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Survival Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Survival Win 10 Fight",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Survival Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Ball Win 01 Fight",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Ball Win 05 Fight",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Ball Win 10 Fight",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Force Stage 01 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Force Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Force Stage 02 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Force Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Force Stage 03 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Force Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Force Stage 04 Clear",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Force Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Tekken Force Beat all Stages",
+            "category": ["Hwoarang"],
+            "requires": [
+            "Tekken Force Mode",
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Hwoarang - Get Perfect",
+            "category": ["Hwoarang"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Hwoarang"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 01 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 02 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 03 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 04 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 05 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 06 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 07 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 08 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 09 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Stage 10 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Arcade Beat the Game : Fixer",
+            "category": ["Eddy"],
+            "requires": [
+            "Arcade Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 01 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 02 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 03 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 04 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 05 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 06 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 07 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 08 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 09 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Time Attack Stage 10 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Time Attack Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Survival Win 01 Fight",
+            "category": ["Eddy"],
+            "requires": [
+            "Survival Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Survival Win 05 Fight",
+            "category": ["Eddy"],
+            "requires": [
+            "Survival Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Survival Win 10 Fight",
+            "category": ["Eddy"],
+            "requires": [
+            "Survival Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Ball Win 01 Fight",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Ball Win 05 Fight",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Ball Win 10 Fight",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Force Stage 01 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Force Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Force Stage 02 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Force Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Force Stage 03 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Force Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Force Stage 04 Clear",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Force Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Tekken Force Beat all Stages",
+            "category": ["Eddy"],
+            "requires": [
+            "Tekken Force Mode",
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Eddy - Get Perfect",
+            "category": ["Eddy"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Eddy"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 01 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 02 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 03 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 04 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 05 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 06 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 07 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 08 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 09 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Stage 10 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Arcade Beat the Game : Supa Fly!",
+            "category": ["Tiger"],
+            "requires": [
+            "Arcade Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 01 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 02 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 03 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 04 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 05 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 06 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 07 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 08 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 09 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Time Attack Stage 10 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Time Attack Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Survival Win 01 Fight",
+            "category": ["Tiger"],
+            "requires": [
+            "Survival Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Survival Win 05 Fight",
+            "category": ["Tiger"],
+            "requires": [
+            "Survival Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Survival Win 10 Fight",
+            "category": ["Tiger"],
+            "requires": [
+            "Survival Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Ball Win 01 Fight",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Ball Win 05 Fight",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Ball Win 10 Fight",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Force Stage 01 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Force Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Force Stage 02 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Force Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Force Stage 03 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Force Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Force Stage 04 Clear",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Force Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Tekken Force Beat all Stages",
+            "category": ["Tiger"],
+            "requires": [
+            "Tekken Force Mode",
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Tiger - Get Perfect",
+            "category": ["Tiger"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Tiger"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 01 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 02 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 03 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 04 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 05 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 06 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 07 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 08 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 09 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Stage 10 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Arcade Beat the Game : Winning Run",
+            "category": ["Paul"],
+            "requires": [
+            "Arcade Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 01 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 02 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 03 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 04 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 05 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 06 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 07 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 08 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 09 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Time Attack Stage 10 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Time Attack Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Survival Win 01 Fight",
+            "category": ["Paul"],
+            "requires": [
+            "Survival Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Survival Win 05 Fight",
+            "category": ["Paul"],
+            "requires": [
+            "Survival Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Survival Win 10 Fight",
+            "category": ["Paul"],
+            "requires": [
+            "Survival Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Ball Win 01 Fight",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Ball Win 05 Fight",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Ball Win 10 Fight",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Force Stage 01 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Force Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Force Stage 02 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Force Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Force Stage 03 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Force Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Force Stage 04 Clear",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Force Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Tekken Force Beat all Stages",
+            "category": ["Paul"],
+            "requires": [
+            "Tekken Force Mode",
+            "Paul"
+            ]
+        },
+        {
+            "name": "Paul - Get Perfect",
+            "category": ["Paul"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Paul"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 01 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 02 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 03 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 04 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 05 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 06 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 07 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 08 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 09 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Stage 10 Clear",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Arcade Beat the Game : Destiny",
+            "category": ["King"],
+            "requires": [
+            "Arcade Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 01 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 02 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 03 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 04 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 05 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 06 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 07 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 08 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 09 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Time Attack Stage 10 Clear",
+            "category": ["King"],
+            "requires": [
+            "Time Attack Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Survival Win 01 Fight",
+            "category": ["King"],
+            "requires": [
+            "Survival Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Survival Win 05 Fight",
+            "category": ["King"],
+            "requires": [
+            "Survival Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Survival Win 10 Fight",
+            "category": ["King"],
+            "requires": [
+            "Survival Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Ball Win 01 Fight",
+            "category": ["King"],
+            "requires": [
+            "Tekken Ball Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Ball Win 05 Fight",
+            "category": ["King"],
+            "requires": [
+            "Tekken Ball Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Ball Win 10 Fight",
+            "category": ["King"],
+            "requires": [
+            "Tekken Ball Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Force Stage 01 Clear",
+            "category": ["King"],
+            "requires": [
+            "Tekken Force Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Force Stage 02 Clear",
+            "category": ["King"],
+            "requires": [
+            "Tekken Force Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Force Stage 03 Clear",
+            "category": ["King"],
+            "requires": [
+            "Tekken Force Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Force Stage 04 Clear",
+            "category": ["King"],
+            "requires": [
+            "Tekken Force Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Tekken Force Beat all Stages",
+            "category": ["King"],
+            "requires": [
+            "Tekken Force Mode",
+            "King"
+            ]
+        },
+        {
+            "name": "King - Get Perfect",
+            "category": ["King"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "King"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 01 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 02 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 03 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 04 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 05 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 06 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 07 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 08 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 09 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Stage 10 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Arcade Beat the Game : Afternoon nap",
+            "category": ["Lei"],
+            "requires": [
+            "Arcade Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 01 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 02 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 03 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 04 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 05 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 06 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 07 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 08 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 09 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Time Attack Stage 10 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Time Attack Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Survival Win 01 Fight",
+            "category": ["Lei"],
+            "requires": [
+            "Survival Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Survival Win 05 Fight",
+            "category": ["Lei"],
+            "requires": [
+            "Survival Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Survival Win 10 Fight",
+            "category": ["Lei"],
+            "requires": [
+            "Survival Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Ball Win 01 Fight",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Ball Win 05 Fight",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Ball Win 10 Fight",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Force Stage 01 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Force Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Force Stage 02 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Force Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Force Stage 03 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Force Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Force Stage 04 Clear",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Force Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Tekken Force Beat all Stages",
+            "category": ["Lei"],
+            "requires": [
+            "Tekken Force Mode",
+            "Lei"
+            ]
+        },
+        {
+            "name": "Lei - Get Perfect",
+            "category": ["Lei"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Lei"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 01 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 02 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 03 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 04 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 05 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 06 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 07 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 08 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 09 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Stage 10 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Arcade Beat the Game : Dirty Blood",
+            "category": ["Jin"],
+            "requires": [
+            "Arcade Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 01 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 02 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 03 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 04 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 05 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 06 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 07 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 08 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 09 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Time Attack Stage 10 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Time Attack Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Survival Win 01 Fight",
+            "category": ["Jin"],
+            "requires": [
+            "Survival Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Survival Win 05 Fight",
+            "category": ["Jin"],
+            "requires": [
+            "Survival Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Survival Win 10 Fight",
+            "category": ["Jin"],
+            "requires": [
+            "Survival Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Ball Win 01 Fight",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Ball Win 05 Fight",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Ball Win 10 Fight",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Force Stage 01 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Force Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Force Stage 02 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Force Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Force Stage 03 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Force Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Force Stage 04 Clear",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Force Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Tekken Force Beat all Stages",
+            "category": ["Jin"],
+            "requires": [
+            "Tekken Force Mode",
+            "Jin"
+            ]
+        },
+        {
+            "name": "Jin - Get Perfect",
+            "category": ["Jin"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Jin"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 01 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 02 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 03 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 04 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 05 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 06 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 07 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 08 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 09 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Stage 10 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Arcade Beat the Game : Loop",
+            "category": ["Gon"],
+            "requires": [
+            "Arcade Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 01 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 02 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 03 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 04 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 05 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 06 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 07 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 08 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 09 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Time Attack Stage 10 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Time Attack Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Survival Win 01 Fight",
+            "category": ["Gon"],
+            "requires": [
+            "Survival Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Survival Win 05 Fight",
+            "category": ["Gon"],
+            "requires": [
+            "Survival Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Survival Win 10 Fight",
+            "category": ["Gon"],
+            "requires": [
+            "Survival Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Ball Win 01 Fight",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Ball Win 05 Fight",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Ball Win 10 Fight",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Force Stage 01 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Force Stage 02 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Force Stage 03 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Force Stage 04 Clear",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Tekken Force Beat all Stages",
+            "category": ["Gon"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gon"
+            ]
+        },
+        {
+            "name": "Gon - Get Perfect",
+            "category": ["Gon"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Gon"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 01 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 02 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 03 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 04 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 05 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 06 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 07 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 08 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 09 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Stage 10 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Arcade Beat the Game : Ogre's Blood",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Arcade Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 01 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 02 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 03 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 04 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 05 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 06 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 07 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 08 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 09 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Time Attack Stage 10 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Time Attack Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Survival Win 01 Fight",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Survival Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Survival Win 05 Fight",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Survival Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Survival Win 10 Fight",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Survival Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Ball Win 01 Fight",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Ball Win 05 Fight",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Ball Win 10 Fight",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Force Stage 01 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Force Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Force Stage 02 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Force Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Force Stage 03 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Force Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Force Stage 04 Clear",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Force Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Tekken Force Beat all Stages",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            "Tekken Force Mode",
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Doctor Boskonovitch - Get Perfect",
+            "category": ["Doctor Boskonovitch"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Doctor Boskonovitch"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 01 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 02 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 03 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 04 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 05 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 06 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 07 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 08 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 09 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Stage 10 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Arcade Beat the Game : Last Laugh",
+            "category": ["Bryan"],
+            "requires": [
+            "Arcade Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 01 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 02 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 03 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 04 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 05 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 06 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 07 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 08 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 09 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Time Attack Stage 10 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Time Attack Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Survival Win 01 Fight",
+            "category": ["Bryan"],
+            "requires": [
+            "Survival Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Survival Win 05 Fight",
+            "category": ["Bryan"],
+            "requires": [
+            "Survival Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Survival Win 10 Fight",
+            "category": ["Bryan"],
+            "requires": [
+            "Survival Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Ball Win 01 Fight",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Ball Win 05 Fight",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Ball Win 10 Fight",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Force Stage 01 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Force Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Force Stage 02 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Force Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Force Stage 03 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Force Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Force Stage 04 Clear",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Force Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Tekken Force Beat all Stages",
+            "category": ["Bryan"],
+            "requires": [
+            "Tekken Force Mode",
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Bryan - Get Perfect",
+            "category": ["Bryan"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Bryan"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 01 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 02 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 03 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 04 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 05 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 06 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 07 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 08 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 09 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Stage 10 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Arcade Beat the Game : Honey...",
+            "category": ["Kuma"],
+            "requires": [
+            "Arcade Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 01 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 02 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 03 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 04 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 05 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 06 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 07 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 08 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 09 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Time Attack Stage 10 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Time Attack Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Survival Win 01 Fight",
+            "category": ["Kuma"],
+            "requires": [
+            "Survival Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Survival Win 05 Fight",
+            "category": ["Kuma"],
+            "requires": [
+            "Survival Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Survival Win 10 Fight",
+            "category": ["Kuma"],
+            "requires": [
+            "Survival Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Ball Win 01 Fight",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Ball Win 05 Fight",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Ball Win 10 Fight",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Force Stage 01 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Force Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Force Stage 02 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Force Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Force Stage 03 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Force Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Force Stage 04 Clear",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Force Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Tekken Force Beat all Stages",
+            "category": ["Kuma"],
+            "requires": [
+            "Tekken Force Mode",
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Kuma - Get Perfect",
+            "category": ["Kuma"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Kuma"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 01 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 02 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 03 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 04 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 05 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 06 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 07 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 08 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 09 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Stage 10 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Arcade Beat the Game : Honey...",
+            "category": ["Panda"],
+            "requires": [
+            "Arcade Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 01 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 02 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 03 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 04 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 05 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 06 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 07 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 08 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 09 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Time Attack Stage 10 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Time Attack Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Survival Win 01 Fight",
+            "category": ["Panda"],
+            "requires": [
+            "Survival Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Survival Win 05 Fight",
+            "category": ["Panda"],
+            "requires": [
+            "Survival Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Survival Win 10 Fight",
+            "category": ["Panda"],
+            "requires": [
+            "Survival Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Ball Win 01 Fight",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Ball Win 05 Fight",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Ball Win 10 Fight",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Force Stage 01 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Force Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Force Stage 02 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Force Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Force Stage 03 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Force Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Force Stage 04 Clear",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Force Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Tekken Force Beat all Stages",
+            "category": ["Panda"],
+            "requires": [
+            "Tekken Force Mode",
+            "Panda"
+            ]
+        },
+        {
+            "name": "Panda - Get Perfect",
+            "category": ["Panda"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Panda"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 01 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 02 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 03 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 04 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 05 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 06 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 07 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 08 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 09 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Stage 10 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Arcade Beat the Game : A grandson's fall",
+            "category": ["Heihachi"],
+            "requires": [
+            "Arcade Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 01 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 02 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 03 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 04 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 05 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 06 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 07 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 08 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 09 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Time Attack Stage 10 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Time Attack Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Survival Win 01 Fight",
+            "category": ["Heihachi"],
+            "requires": [
+            "Survival Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Survival Win 05 Fight",
+            "category": ["Heihachi"],
+            "requires": [
+            "Survival Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Survival Win 10 Fight",
+            "category": ["Heihachi"],
+            "requires": [
+            "Survival Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Ball Win 01 Fight",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Ball Win 05 Fight",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Ball Win 10 Fight",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Force Stage 01 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Force Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Force Stage 02 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Force Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Force Stage 03 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Force Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Force Stage 04 Clear",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Force Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Tekken Force Beat all Stages",
+            "category": ["Heihachi"],
+            "requires": [
+            "Tekken Force Mode",
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Heihachi - Get Perfect",
+            "category": ["Heihachi"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Heihachi"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 01 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 02 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 03 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 04 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 05 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 06 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 07 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 08 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 09 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Stage 10 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Arcade Beat the Game : Awekening",
+            "category": ["Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 01 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 02 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 03 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 04 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 05 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 06 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 07 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 08 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 09 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Time Attack Stage 10 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Survival Win 01 Fight",
+            "category": ["Ogre"],
+            "requires": [
+            "Survival Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Survival Win 05 Fight",
+            "category": ["Ogre"],
+            "requires": [
+            "Survival Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Survival Win 10 Fight",
+            "category": ["Ogre"],
+            "requires": [
+            "Survival Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Ball Win 01 Fight",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Ball Win 05 Fight",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Ball Win 10 Fight",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Force Stage 01 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Force Stage 02 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Force Stage 03 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Force Stage 04 Clear",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Tekken Force Beat all Stages",
+            "category": ["Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "Ogre"
+            ]
+        },
+        {
+            "name": "Ogre - Get Perfect",
+            "category": ["Ogre"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 01 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 02 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 03 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 04 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 05 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 06 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 07 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 08 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 09 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Stage 10 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Arcade Beat the Game : Awekening",
+            "category": ["True Ogre"],
+            "requires": [
+            "Arcade Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 01 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 02 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 03 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 04 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 05 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 06 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 07 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 08 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 09 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Time Attack Stage 10 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Time Attack Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Survival Win 01 Fight",
+            "category": ["True Ogre"],
+            "requires": [
+            "Survival Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Survival Win 05 Fight",
+            "category": ["True Ogre"],
+            "requires": [
+            "Survival Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Survival Win 10 Fight",
+            "category": ["True Ogre"],
+            "requires": [
+            "Survival Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Ball Win 01 Fight",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Ball Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Ball Win 05 Fight",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Ball Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Ball Win 10 Fight",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Ball Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Force Stage 01 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Force Stage 02 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Force Stage 03 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Force Stage 04 Clear",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Tekken Force Beat all Stages",
+            "category": ["True Ogre"],
+            "requires": [
+            "Tekken Force Mode",
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "True Ogre - Get Perfect",
+            "category": ["True Ogre"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "True Ogre"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 01 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 02 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 03 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 04 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 05 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 06 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 07 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 08 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 09 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Stage 10 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Arcade Beat the Game : Homecoming",
+            "category": ["Julia"],
+            "requires": [
+            "Arcade Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 01 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 02 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 03 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 04 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 05 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 06 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 07 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 08 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 09 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Time Attack Stage 10 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Time Attack Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Survival Win 01 Fight",
+            "category": ["Julia"],
+            "requires": [
+            "Survival Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Survival Win 05 Fight",
+            "category": ["Julia"],
+            "requires": [
+            "Survival Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Survival Win 10 Fight",
+            "category": ["Julia"],
+            "requires": [
+            "Survival Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Ball Win 01 Fight",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Ball Win 05 Fight",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Ball Win 10 Fight",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Force Stage 01 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Force Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Force Stage 02 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Force Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Force Stage 03 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Force Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Force Stage 04 Clear",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Force Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Tekken Force Beat all Stages",
+            "category": ["Julia"],
+            "requires": [
+            "Tekken Force Mode",
+            "Julia"
+            ]
+        },
+        {
+            "name": "Julia - Get Perfect",
+            "category": ["Julia"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Julia"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 01 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 02 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 03 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 04 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 05 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 06 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 07 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 08 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 09 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Stage 10 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Arcade Beat the Game : Complete?",
+            "category": ["Gun jack"],
+            "requires": [
+            "Arcade Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 01 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 02 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 03 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 04 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 05 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 06 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 07 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 08 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 09 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Time Attack Stage 10 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Time Attack Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Survival Win 01 Fight",
+            "category": ["Gun jack"],
+            "requires": [
+            "Survival Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Survival Win 05 Fight",
+            "category": ["Gun jack"],
+            "requires": [
+            "Survival Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Survival Win 10 Fight",
+            "category": ["Gun jack"],
+            "requires": [
+            "Survival Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Ball Win 01 Fight",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Ball Win 05 Fight",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Ball Win 10 Fight",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Force Stage 01 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Force Stage 02 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Force Stage 03 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Force Stage 04 Clear",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Tekken Force Beat all Stages",
+            "category": ["Gun jack"],
+            "requires": [
+            "Tekken Force Mode",
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Gun jack - Get Perfect",
+            "category": ["Gun jack"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Gun jack"
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 01 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 02 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 03 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 04 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 05 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 06 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 07 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 08 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 09 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Stage 10 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Arcade Beat the Game : Uppercut",
+            "category": ["Mokujin"],
+            "requires": [
+            "Arcade Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 01 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 02 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 03 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 04 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 05 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 06 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 07 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 08 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 09 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Time Attack Stage 10 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Time Attack Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Survival Win 01 Fight",
+            "category": ["Mokujin"],
+            "requires": [
+            "Survival Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Survival Win 05 Fight",
+            "category": ["Mokujin"],
+            "requires": [
+            "Survival Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Survival Win 10 Fight",
+            "category": ["Mokujin"],
+            "requires": [
+            "Survival Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Ball Win 01 Fight",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Ball Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Ball Win 05 Fight",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Ball Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Ball Win 10 Fight",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Ball Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Force Stage 01 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Force Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Force Stage 02 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Force Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Force Stage 03 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Force Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Force Stage 04 Clear",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Force Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Tekken Force Beat all Stages",
+            "category": ["Mokujin"],
+            "requires": [
+            "Tekken Force Mode",
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Mokujin - Get Perfect",
+            "category": ["Mokujin"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            ["Mokujin (M)","Mokujin (F)"]
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 01 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 02 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 03 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 04 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 05 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 06 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 07 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 08 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 09 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Stage 10 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Arcade Beat the Game : Pool-Side",
+            "category": ["Anna"],
+            "requires": [
+            "Arcade Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 01 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 02 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 03 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 04 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 05 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 06 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 07 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 08 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 09 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Time Attack Stage 10 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Time Attack Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Survival Win 01 Fight",
+            "category": ["Anna"],
+            "requires": [
+            "Survival Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Survival Win 05 Fight",
+            "category": ["Anna"],
+            "requires": [
+            "Survival Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Survival Win 10 Fight",
+            "category": ["Anna"],
+            "requires": [
+            "Survival Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Ball Win 01 Fight",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Ball Win 05 Fight",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Ball Win 10 Fight",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Ball Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Force Stage 01 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Force Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Force Stage 02 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Force Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Force Stage 03 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Force Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Force Stage 04 Clear",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Force Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Tekken Force Beat all Stages",
+            "category": ["Anna"],
+            "requires": [
+            "Tekken Force Mode",
+            "Anna"
+            ]
+        },
+        {
+            "name": "Anna - Get Perfect",
+            "category": ["Anna"],
+            "requires": [
+            ["Arcade Mode","Time Attack Mode","Team Battle Mode","Survival Mode","Tekken Ball Mode","Tekken Force Mode"],
+            "Anna"
+            ]
+        },
+        {
+            "name": "All Arcade Mode Clear",
+            "victory": true,
+            "category": ["Goal"],
+            "requires": [
+                "Arcade Mode",
+                "Xiaoyu",
+                "Yoshimitsu",
+                "Nina",
+                "Law",
+                "Hwoarang",
+                "Eddy",
+                "Tiger",
+                "King",
+                "Lei",
+                "Jin",
+                "Gon",
+                "Doctor Boskonovitch",
+                "Bryan",
+                "Kuma",
+                "Panda",
+                "Heihachi",
+                "Ogre",
+                "True Ogre",
+                "Julia",
+                "Gun jack",
+                ["Mokujin (M)","Mokujin (F)"],
+                "Anna"
+                ]
+        },
+        {
+            "name": "King of Iron Fist Tournament Token",
+            "victory": true,
+            "category": ["Goal"],
+            "requires": "|KIFT Emblem:ALL|"
+        }
+    ]
+}
+
