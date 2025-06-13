@@ -1,54 +1,60 @@
-```markdown
-# Archipelago Manual for Tekken 3
+# Manual Archipelago for Tekken 3
 
-## Welcome
-Welcome to my **Archipelago Manual** for **Tekken 3** on PlayStation. This manual uses the **Tekken 3 (Everything Unlocked)** version. If you already have a 100% unlocked save, you can use it as well. Having a fully completed save is highly recommended to finish a seed.
+## Welcome!
+Welcome to my Archipelago manual for **Tekken 3** on the PlayStation. For this Manual Archipelago, I use the **Tekken 3 (Everything Unlocked)** version. If you already have a save file with everything unlocked, that works too. It is highly recommended to use a 100% save file to complete a seed.
 
 ## Project Status
-This project is currently in **beta**. Many new features will be added in future updates, as detailed in the **Upcoming Features** section below.
+This project is currently in **beta**. I plan to add many new features in future updates, as detailed in the **Planned Features** section below.
 
 ## General Information
-Before starting a seed, please note the following:
+There are a few things to know before starting a seed, especially regarding characters:
 
-- **Kuma** and **Panda** are treated as separate characters, even though they share a similar ending. To play as Panda, press **Cross** and **Circle** together.
-- **Eddy** and **Tiger** are also distinct characters (each with its own ending). To play as Tiger, press **Triangle** while highlighting Eddy.
-- **Mokujin** appears in two versions: **M (Male)** – use **Square** or **Triangle** – and **F (Female)** – use **Cross** or **Circle**. You are not required to clear the seed with both versions; this distinction is only for future variety in objectives.
-- This manual covers the full game and all its solo modes.
+- **Kuma and Panda** are considered two different characters, even though they share the same ending. (To play as Panda, use the Cross and Circle buttons on your PlayStation controller.)
+- **Eddy and Tiger** are also treated as two separate characters. Unlike Kuma and Panda, they have different endings. (To play as Tiger, press Triangle while selecting Eddy.)
+- **Mokujin** is split into two distinct genders: **(M) Male** (Square or Triangle) and **(F) Female** (Cross or Circle). You’re not required to complete checks with both versions, but this distinction is made for potential future goals.
+- This Manual Archipelago includes the full game and all its single-player modes.
 
 ## Known Bugs
-- The **All Arcade Mode Clear** goal is not yet reflected in the spoiler log, but you can still complete it manually.
+- The goal **All Arcade Mode Clear** does not currently work within spoiler log logic. However, it can still be completed manually—it just breaks spoiler progression tracking.
 
-## Objectives (Goals)
+## Goals
+
 - **All Arcade Mode Clear**  
-  Complete Arcade Mode with each character, except Mokujin (only one version is required).
+  Finish Arcade Mode with each character, except Mokujin—you only need to complete it with one version (either M or F, not both).
 
 - **King of Iron Fist Tournament Token**  
-  Collect all tokens named **KIFT Emblem**.
+  Finish the game while collecting all the tokens named: KIFT Emblem.
 
-## Upcoming Features
-- **New Goals**: Additional objectives for more variety.  
-- **Mode Exclusion Option**: Ability to disable specific game modes during seed generation.  
-- **New Checks**: Checks for Team Battle mode and fun checks based on Tekken lore.  
-- **Difficulty Settings**: Adjustable difficulty levels and the option to disable them.
+## Planned Features (subject to change)
 
-## Release Notes
+- **New Goals**: Additional goals to further diversify the gameplay experience.
+- **Exclude Certain Game Modes**: Currently, all game modes are included in seed randomization.
+- **New Checks**: Future checks for Team Battle mode and some fun lore-based checks for Tekken.
+- **Difficulty Settings**: Adjustable difficulty settings in item generation and the ability to exclude certain items.
+
+## Changelog
+
+### Version 0.1.1
+
+**Changes**
+- Fixed Mokujin logic so checks can be done with either version (M or F)
+- Updated **All Arcade Mode Clear** goal to allow either Mokujin version
 
 ### Version 0.1.0
-**Initial Release**  
-- Created categories: **Characters**, **Game Modes**, **Difficulty**  
-- Added the two Goals listed above  
-- Implemented checks for each character in Arcade, Time Attack, Survivor, Tekken Ball, and Tekken Force modes
+
+**Changes**
+- Created item categories: **Characters**, **Game Mode**, and **Difficulty**
+- Added the two goals mentioned above
+- Added checks for each character in the following modes: Arcade, Time Attack, Survival, Tekken Ball, Tekken Force
 
 ## How to Contribute
 All contributions are welcome:
 
-- **Feedback**: Play and share your thoughts on the gameplay or documentation.  
-- **Code**: Submit *pull requests* to fix bugs or add features.  
-- **Documentation**: Improve this README or write additional guides.
+- **Feedback**: Play the seed and share your thoughts on gameplay or documentation
+- **Code**: Submit pull requests with bug fixes or new features
+- **Docs**: Improve this README or add other helpful documentation
 
 ## Contact
-For any questions, or if you are a streamer, join us on the **Archipelago Discord** or open an issue on GitHub. I will respond as soon as possible.
+If you have any questions or are a streamer interested in using this, feel free to contact us via the Archipelago Discord or by opening an issue on GitHub. I’ll respond as soon as possible.
 
-We look forward to your contributions!
-```
-
+Looking forward to seeing how you contribute to the future of this project!

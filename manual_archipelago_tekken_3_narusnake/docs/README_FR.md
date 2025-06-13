@@ -32,9 +32,15 @@ Il y a different chose à savoir avant de commencer une seed sur les personnage
 
 ## Notes de version
 
+### Version 0.1.1
+
+**Modification**  
+- Correction de la logique de mokujin pour qu'on puisse faire ces check avec l'un ou l'autre personnage
+- Correction du goal **All Arcade Mode Clear**  pour faire l'un des deux mokujin
+
 ### Version 0.1.0
 
-**Version initiale**  
+**Modification**  
 - Création des objets pour les catégories **Personnages**, **Game Mode** et **Difficulty**
 - Ajout des 2 Goal cité plus haut 
 - Ajout de tout les check pour chaque personnage pour le mode  Arcade , Time Attack, Survivor , Tekken Ball , Tekken Force
