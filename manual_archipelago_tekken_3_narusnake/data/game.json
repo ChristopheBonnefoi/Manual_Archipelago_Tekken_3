@@ -1,21 +1,76 @@
 {
-  "game": "Tekken3",
-  "creator": "NaruSnake",
-  "filler_item_name": "TEKKEN Points",
-  "starting_items": [
-    {
-			"item_categories": [ "Game_Mode" ],
-			"random": 1
-		},
-    {
-			"item_categories": [ "Characters" ],
-			"random": 1
-		},
-    {
-			"item_categories": [ "Difficulty" ],
-			"random": 1
-		}
-  ],
-  "death_link": false,
-  "starting_index": 1
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "Tekken3",
+    "creator": "NaruSnake",
+    "filler_item_name": "TEKKEN Points",
+    "starting_items": [
+        {
+            "item_categories": [
+                "Game_Mode"
+            ],
+            "random": 1
+        },
+        {
+            "item_categories": [
+                "Characters"
+            ],
+            "random": 1
+        },
+        {
+            "item_categories": [
+                "Difficulty"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "difficulty"
+            ]
+        },
+        {
+            "item_categories": [
+                "Fight_Count"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "fight_count"
+            ]
+        },
+        {
+            "item_categories": [
+                "Round_Time"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "round_time"
+            ]
+        },
+        {
+            "item_categories": [
+                "Team_Battle"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "team_battle_mode"
+            ]
+        },
+        {
+            "item_categories": [
+                "Tekken_Ball"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "tekken_ball_mode"
+            ]
+        },
+        {
+            "item_categories": [
+                "Tekken_Force_Stages"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "tekken_force_mode"
+            ]
+        }
+    ],
+    "death_link": false,
+    "starting_index": 1
 }

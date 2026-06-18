@@ -2,223 +2,722 @@
     "data": [
         {
             "name": "Anna",
-            "category": ["Characters"],
+            "category": [
+                "Girl",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Bryan",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Doctor Boskonovitch",
-            "category": ["Characters"],
+            "name": "Doctor Bosconovitch",
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Eddy",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Gon",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Gun Jack",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Heihachi",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Hwoarang",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Jin",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Julia",
-            "category": ["Characters"],
+            "category": [
+                "Girl",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "King",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Kuma",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Law",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Lei",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Mokujin (F)",
-            "category": ["Characters"],
+            "category": [
+                "Girl",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Mokujin (M)",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Nina",
-            "category": ["Characters"],
+            "category": [
+                "Girl",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Ogre",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Panda",
-            "category": ["Characters"],
+            "category": [
+                "Girl",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Paul",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Tiger",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "True Ogre",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Xiaoyu",
-            "category": ["Characters"],
+            "category": [
+                "Girl",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Yoshimitsu",
-            "category": ["Characters"],
+            "category": [
+                "Boy",
+                "Characters"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Arcade Mode",
-            "category": ["Game_Mode"],
+            "category": [
+                "Game_Mode",
+                "Arcade_Mode"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Team Battle Mode",
-            "category": ["Game_Mode"],
+            "category": [
+                "Game_Mode",
+                "Team_Battle_Mode"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Time Attack Mode",
-            "category": ["Game_Mode"],
+            "category": [
+                "Game_Mode",
+                "Time_Attack_Mode"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Survival Mode",
-            "category": ["Game_Mode"],
+            "category": [
+                "Game_Mode",
+                "Survival_Mode"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Tekken Ball Mode",
-            "category": ["Game_Mode"],
+            "category": [
+                "Game_Mode",
+                "Tekken_Ball_Mode"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Tekken Force Mode",
-            "category": ["Game_Mode"],
+            "category": [
+                "Game_Mode",
+                "Tekken_Force_Mode"
+            ],
             "count": 1,
             "progression": true
         },
         {
             "name": "Beach Ball",
-            "category": ["Tekken_Ball"],
+            "category": [
+                "Tekken_Ball"
+            ],
             "count": 1
         },
         {
             "name": "Iron Ball",
-            "category": ["Tekken_Ball"],
+            "category": [
+                "Tekken_Ball"
+            ],
             "count": 1
         },
         {
             "name": "Gum Ball",
-            "category": ["Tekken_Ball"],
+            "category": [
+                "Tekken_Ball"
+            ],
             "count": 1
         },
         {
             "name": "Progressive Tekken Force Stage",
-            "category": ["Tekken_Force_Stages"],
+            "category": [
+                "Tekken_Force_Stages"
+            ],
             "count": 4,
             "progression": true
         },
         {
+            "name": "Progressive Team Battle Select",
+            "category": [
+                "Team_Battle"
+            ],
+            "count": 8,
+            "progression": true
+        },
+        {
             "name": "Hard",
-            "category": ["Difficulty"],
+            "category": [
+                "Options",
+                "Difficulty"
+            ],
             "count": 1
         },
-                {
+        {
             "name": "Medium",
-            "category": ["Difficulty"],
+            "category": [
+                "Options",
+                "Difficulty"
+            ],
             "count": 1
         },
         {
             "name": "Easy",
-            "category": ["Difficulty"],
+            "category": [
+                "Options",
+                "Difficulty"
+            ],
             "count": 1
         },
         {
+            "name": "Fight Count 1",
+            "category": [
+                "Options",
+                "Fight_Count"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Fight Count 2",
+            "category": [
+                "Options",
+                "Fight_Count"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Fight Count 3",
+            "category": [
+                "Options",
+                "Fight_Count"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Fight Count 4",
+            "category": [
+                "Options",
+                "Fight_Count"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Fight Count 5",
+            "category": [
+                "Options",
+                "Fight_Count"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Round Time 20 Seconds",
+            "category": [
+                "Options",
+                "Round_Time"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Round Time 30 Seconds",
+            "category": [
+                "Options",
+                "Round_Time"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Round Time 40 Seconds",
+            "category": [
+                "Options",
+                "Round_Time"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Round Time 50 Seconds",
+            "category": [
+                "Options",
+                "Round_Time"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Round Time 60 Seconds",
+            "category": [
+                "Options",
+                "Round_Time"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Round Time Infinite Seconds",
+            "category": [
+                "Options",
+                "Round_Time"
+            ],
+            "count": 1
+        },
+        {
+            "name": "Anna's Lipstick",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Anna's Lace Thong",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Bryan's Brooding Bandana",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Bryan's Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Dr. Bosconovitch's Glasses",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Dr. Bosconovitch's Senior Diaper",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Eddy's Capoeira Belt",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Eddy's Brazilian Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Gon's Boxing Gloves",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Gun Jack's Spare Parts",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Gun Jack's Tactical Man-Thong",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Heihachi's Kimono",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Heihachi's Loincloth",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Hwoarang's Headband",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Hwoarang's Heart-Pattern Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Jin's Fighting Gloves",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Jin's Flame-Print Thong",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Julia's Headdress",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Julia's Tribal-Pattern Panties",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "King's Mask",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "King's Wrestling Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Kuma's Salmon",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Law's Nunchaku",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Law's Ventilated Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Lei's Service Weapon",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Lei's Cop Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Mokujin (F)'s Flower",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Mokujin (M)'s Chain",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Nina's Stilettos",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Nina's Lovely Thong",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Ogre's Shield",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Ogre's Loincloth",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Panda's Bracelet",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Paul's Leather Jacket",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Paul's Karate Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Tiger's Disco Sunglasses",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Tiger's Disco Briefs",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "True Ogre's Fang",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Xiaoyu's Yellow Ribbon Belt",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Xiaoyu's Panda Panties",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Yoshimitsu's Sword",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
+            "name": "Yoshimitsu's Loincloth",
+            "category": [
+                "Filler"
+            ],
+            "count": 0
+        },
+        {
             "name": "KIFT Emblem",
-            "category": ["Token"],
+            "category": [
+                "Token"
+            ],
             "count": 100,
             "progression": true
         }

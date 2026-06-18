@@ -2,13 +2,15 @@
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
-        "goal":{
+        "goal": {
             "_comment": [
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
             "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
+            "aliases": {
+                "easiest": 0
+            },
             "hidden": false
         },
         "death_link": {
@@ -22,61 +24,107 @@
         }
     },
     "user": {
-        "_commented_out_option":{
-            "type": "Toggle",
-            "default": true
-        },
-        "Example_Toggle":{
+        "arcade_mode": {
+            "display_name": "Arcade Mode",
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Include Arcade Mode progression items and Arcade Mode checks.",
+                "If an Arcade Mode goal is selected, this option is forced on to keep the goal reachable."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Modes"
+        },
+        "time_attack_mode": {
+            "display_name": "Time Attack Mode",
+            "description": [
+                "Include Time Attack Mode progression items and Time Attack Mode checks.",
+                "If a Time Attack Mode goal is selected, this option is forced on to keep the goal reachable."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Modes"
+        },
+        "survival_mode": {
+            "display_name": "Survival Mode",
+            "description": [
+                "Include Survival Mode progression items and Survival Mode checks.",
+                "If a Survival Mode goal is selected, this option is forced on to keep the goal reachable."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Modes"
+        },
+        "team_battle_mode": {
+            "display_name": "Team Battle Mode",
+            "description": [
+                "Include Team Battle Mode progression items and Team Battle Mode checks.",
+                "Full Game Completion goals adapt to the enabled game modes."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Modes"
+        },
+        "tekken_ball_mode": {
+            "display_name": "Tekken Ball Mode",
+            "description": [
+                "Include Tekken Ball Mode progression items, ball items, and Tekken Ball checks.",
+                "If a Tekken Ball Mode goal is selected, this option is forced on to keep the goal reachable."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Modes"
+        },
+        "tekken_force_mode": {
+            "display_name": "Tekken Force Mode",
+            "description": [
+                "Include Tekken Force Mode progression items and Tekken Force checks.",
+                "If a Tekken Force Mode goal is selected, this option is forced on to keep the goal reachable."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Modes"
+        },
+        "difficulty": {
+            "display_name": "Difficulty",
+            "description": [
+                "Add Difficulty setting items to the item pool.",
+                "Disabled by default so players can opt in only when they want this extra setting layer."
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Gameplay Options"
         },
-        "Example_Choice":{
-            "type": "Choice",
+        "fight_count": {
+            "display_name": "Fight Count",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Add Fight Count setting items to the item pool.",
+                "Disabled by default so players can opt in only when they want this extra setting layer."
             ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
+            "default": false,
+            "group": "Gameplay Options"
+        },
+        "round_time": {
+            "display_name": "Round Time",
+            "description": [
+                "Add Round Time setting items to the item pool.",
+                "Disabled by default so players can opt in only when they want this extra setting layer."
             ],
-            "default": true
+            "type": "Toggle",
+            "default": false,
+            "group": "Gameplay Options"
+        },
+        "kift_emblems_required": {
+            "display_name": "KIFT Emblems Required",
+            "description": [
+                "Choose how many KIFT Emblems are required for King of Iron Fist Tournament emblem goals.",
+                "KIFT Emblems are only added to the item pool when the selected goal requires them."
+            ],
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 100,
+            "default": 100,
+            "group": "Goal Options"
         }
     }
-
 }

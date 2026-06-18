@@ -1,105 +1,93 @@
 # Manuel Archipelago pour Tekken 3
 
-## Bienvenue !
-Bienvenue dans mon manuel Archipelago pour **Tekken 3** sur Playstation. Pour ce Manual Archipelago, j'utilise la version **Tekken 3 (Everything Unlocked)** ou si vous avez déjà une sauvegarde avec tout débloqué ça marche aussi. Il est fortement conseillé d'avoir une save 100% pour pouvoir finir une seed.
+## Bienvenue
+Bienvenue dans mon Manual Archipelago pour **Tekken 3** sur PlayStation. Utilisez **Tekken 3 (Everything Unlocked)** ou une sauvegarde avec tout d?bloqu?. Une sauvegarde ? 100 % est fortement recommand?e pour pouvoir terminer toutes les seeds sans refaire le d?blocage du jeu ? la main.
 
-## État du projet
-Ce projet est actuellement en **bêta**. Je prévois d’ajouter de nombreuses fonctionnalités supplémentaires dans les futures mises à jour, comme détaillé dans la section **Fonctionnalités futures** ci-dessous.
+## ?tat du projet
+Ce projet est actuellement en **b?ta**. Il couvre le jeu complet ainsi que les modes solo repr?sent?s dans ce manual.
 
-## Ce Manual Archipelago comporte le jeu complet ainsi que tous ses modes de jeu solo.
+## Informations personnages
+- **Kuma et Panda** sont consid?r?s comme deux personnages diff?rents m?me s'ils partagent la m?me fin. Pour s?lectionner Panda, utilisez Croix et Rond sur la manette PlayStation.
+- **Eddy et Tiger** sont consid?r?s comme deux personnages diff?rents. Pour s?lectionner Tiger, appuyez sur Triangle sur Eddy.
+- **Mokujin** est s?par? en **Mokujin (M)** et **Mokujin (F)**. Tous les goals globaux ne demandent pas forc?ment les deux, mais cette s?paration permet des goals par genre et des teams plus propres.
 
-## Informations Personnages
-Il y a différentes choses à savoir avant de commencer une seed sur les personnages :
-- **Kuma et Panda** sont considérés comme 2 personnages différents même s'ils partagent le même ending (pour Panda, il faut utiliser les touches croix et rond de votre manette Playstation)
-- **Eddy et Tiger**, comme pour Kuma et Panda, ce sont deux personnages différents à la différence qu'ils ne partagent pas la même fin (pour jouer avec Tiger il faut appuyer sur Triangle sur Eddy)
-- **Mokujin** est différencié comme deux sexes différents : **(M) Male** (pour jouer avec lui la touche carré ou triangle) et **(F) Female** (pour jouer avec elle la touche croix et rond). Vous n’êtes pas obligés de faire les checks avec les deux, c'est juste pour de futurs goals la différenciation.
-
-## Informations Modes de jeu
-- **Arcade Mode** : Vous devez juste finir le mode arcade avec chaque personnage que vous avez de disponible.
-- **Team Battle** : À l'heure actuelle il n’y a aucun check dessus, work in progress pour la prochaine maj sûrement.
-- **Survival Mode** : Juste le mode survie avec des checks à 10 victoires pour chaque perso à l'heure actuelle.
-- **Tekken Ball** : Battre son adversaire au volley ball mais **vous pouvez affronter uniquement les personnages jouables que vous avez débloqués**.
-- **Tekken Force** : Finir le mode de jeu avec chaque personnage. **ATTENTION : Le mode de jeu, même s'il est débloqué, vous ne pouvez pas le faire si vous n'avez pas débloqué le premier "Progressive Tekken Force Stage"**, pour un léger blocage en plus (à voir si ça ne pose pas de problème de génération).
-
-## Bugs connus
-- Le goal **All Arcade Mode Clear** ne fonctionne pas pour le moment dans la logique du spoiler log, cependant ça ne vous empêche pas de le faire manuellement, ça casse juste le spoiler log.
+## Informations modes de jeu
+- **Arcade Mode** : terminez le mode Arcade avec chaque personnage disponible.
+- **Time Attack Mode** : terminez les routes Time Attack avec chaque personnage disponible.
+- **Survival Mode** : r?alisez les checks de victoires du mode Survie avec chaque personnage disponible.
+- **Team Battle Mode** : gagnez les checks de tailles d'?quipe et les teams th?matiques. Pour le **Full Game Completion**, si Team Battle est activ?, il faut aller jusqu'? la progression de s?lection ? 8 personnages.
+- **Tekken Ball Mode** : battez votre adversaire au volley, uniquement avec les personnages jouables que vous avez d?bloqu?s.
+- **Tekken Force Mode** : terminez Tekken Force avec chaque personnage. Le mode est maintenant mieux cadr? par les objets **Progressive Tekken Force Stage**.
 
 ## Goals
-- **All Arcade Mode Clear**  
-  Terminez le mode arcade avec chaque personnage à l'exception de Mokujin qu'on n'est pas obligé de faire avec les deux sexes (ça ferait trop de doublons).
+- **King of Iron Fist Tournament Token** : r?cup?rez le nombre requis de **KIFT Emblem**.
+- **All Arcade Mode Clear**, avec variantes gar?ons/filles.
+- **All Tekken Ball Mode Clear**, avec variantes gar?ons/filles.
+- **All Time Attack Mode Clear**, avec variantes gar?ons/filles.
+- **All Tekken Force Mode Clear**, avec variantes gar?ons/filles.
+- **All Survival Mode Clear**, avec variantes gar?ons/filles.
+- **Full Game Completion**, avec variantes gar?ons/filles et variantes avec KIFT Emblems.
 
-- **All Arcade Mode Clear with Boys**  
-  Terminez le mode arcade avec chaque personnage masculin. Mokujin(M) et Gon sont inclus.
+## Options YAML
+- **Modes de jeu** : Arcade, Time Attack, Survival, Team Battle, Tekken Ball et Tekken Force peuvent ?tre activ?s ou d?sactiv?s. Les goals sp?cifiques forcent leur mode requis pour ?viter un goal impossible.
+- **R?glages de gameplay** : les pools **Difficulty**, **Fight Count** et **Round Time** sont optionnels et d?sactiv?s par d?faut.
+- **KIFT Emblems requis** : les goals ? tokens peuvent demander entre **1 et 100** KIFT Emblems.
 
-- **All Arcade Mode Clear with Girl**  
-  Terminez le mode arcade avec chaque personnage féminin. Mokujin(F) inclus.
+## Objets filler
+Les **TEKKEN Points** restent comme fallback technique, mais le filler normal utilise maintenant des objets li?s aux personnages dans la cat?gorie visible **Filler**. Ces objets ont un count de base ? `0`, donc ils sont g?n?r?s uniquement quand Archipelago doit remplir des emplacements libres. Bref, les slips maudits n'envahissent pas le pool tant qu'on ne leur demande pas de travailler.
 
-- **All Tekken Ball Mode Clear**  
-  Terminez le mode Tekken Ball avec chaque personnage à l'exception de Mokujin qu'on n'est pas obligé de faire avec les deux sexes (ça ferait trop de doublons). Je tiens à souligner que pour ce goal vous devez lire l'information importante dans la section **Tekken Ball**.
-
-- **All Tekken Ball Mode Clear with Boys**  
-  Terminez le mode Tekken Ball avec chaque personnage masculin. Mokujin(M) et Gon sont inclus. Je tiens à souligner que pour ce goal vous devez lire l'information importante dans la section **Tekken Ball**.
-
-- **All Tekken Ball Clear with Girl**  
-  Terminez le mode Tekken Ball avec chaque personnage féminin. Mokujin(F) inclus. Je tiens à souligner que pour ce goal vous devez lire l'information importante dans la section **Tekken Ball**.
-
-- **All Time Attack Mode Clear**  
-  Terminez le mode Time Attack avec chaque personnage à l'exception de Mokujin qu'on n'est pas obligé de le faire avec les deux sexes (ça ferait trop de doublons).
-
-- **All Time Attack Mode Clear with Boys**  
-  Terminez le mode Time Attack avec chaque personnage masculin. Mokujin(M) et Gon sont inclus.
-
-- **All Time Attack Mode Clear with Girl**  
-  Terminez le mode Time Attack avec chaque personnage féminin. Mokujin(F) inclus.
-
-- **All Tekken Force Mode Clear**  
-  Terminez le mode Tekken Force avec chaque personnage à l'exception de Mokujin qu'on n'est pas obligé de le faire avec les deux sexes (ça ferait trop de doublons).
-
-- **All Tekken Force Mode Clear with Boys**  
-  Terminez le mode Tekken Force avec chaque personnage masculin. Mokujin(M) et Gon sont inclus.
-
-- **All Tekken Force Mode Clear with Girl**  
-  Terminez le mode Tekken Force avec chaque personnage féminin. Mokujin(F) inclus.
-
-- **King of Iron Fist Tournament Token**  
-  Terminer en récupérant tous les tokens qui se nomment : KIFT Emblem.
-
-## Fonctionnalités futures (provisoires)
-- **Nouveaux Goals** : Des goals supplémentaires pour varier encore plus les plaisirs.
-- **Pouvoir exclure certains modes de jeu** : Pour le moment tous les modes sont inclus dans la randomization de la seed.
-- **Des nouveaux checks** : Des futurs checks seront disponibles pour le mode Team Battle et des checks un peu fun basés sur le lore de TEKKEN.
-- **Réglages de difficulté** : Intégration de niveaux de difficulté ajustables dans la génération d’objets et pouvoir l'exclure aussi.
+## Fonctionnalit?s futures
+- Nouveaux goals et checks th?matiques.
+- Passes d'?quilibrage sur les r?glages optionnels.
+- Documentation suppl?mentaire pour les teams et rivalit?s moins ?videntes.
 
 ## Notes de version
 
-### Version 0.2.0 : Goal Update
+### Version 1.1.0 - Massive update
 
-**Modifications**  
-- Ajout des items des ballons pour le mode Tekken Ball.  
-- Ajout des progressives levels pour le mode Tekken Force.  
+**Modifications**
+- Ajout des options YAML fa?on Tekken 2 pour activer ou d?sactiver chaque mode de jeu.
+- Ajout des pools optionnels **Difficulty**, **Fight Count** et **Round Time**, d?sactiv?s par d?faut.
+- Ajout de l'option configurable **KIFT Emblems Required** pour les goals ? tokens.
+- Les **KIFT Emblems** sont maintenant ajout?s au pool uniquement si le goal s?lectionn? les demande.
+- Ajout du filler dynamique li? aux personnages et retraduction des fillers en anglais en gardant l'humour de la version FR.
+- Remplacement du filler g?n?r? **TEKKEN Points** par des fillers dynamiques al?atoires, avec TEKKEN Points conserv? comme fallback.
+- Nettoyage des restes de template dans `events.json` et `regions.json`.
+- Ajout de cl?s de tri pour am?liorer l'ordre des checks dans le client Manual.
+- Mise ? jour du template YAML avec tous les goals actuels.
+- Documentation du fait que le **Full Game Completion** avec Team Battle activ? demande la progression Team Battle jusqu'? 8 personnages.
+
+### Version 1.0.0 - Release Update
+
+**Modifications**
+- Ajout des checks Survival, Tekken Ball et rivalités pour chaque personnage.
+- Correction de l'orthographe de Doctor Bosconovitch.
+- Refonte de la logique Tekken Force et Team Battle.
+- Ajout des objets de progression Tekken Force Stage, Team Battle et Tekken Ball à la génération de seed.
+
+### Version 0.2.0 - Goal Update
+
+**Modifications**
+- Ajout des items de ballons pour le **Mode Tekken Ball**.
+- Ajout des niveaux progressifs pour le **Mode Tekken Force**.
 - Restructuration des fichiers `items.json` et `locations.json`.
+- Ajout de plusieurs goals.
 
 ### Version 0.1.1
 
-**Modifications**  
-- Correction de la logique de Mokujin pour qu'on puisse faire ses checks avec l'un ou l'autre personnage.  
-- Correction du goal **All Arcade Mode Clear** pour faire l'un des deux Mokujin.
+**Modifications**
+- Correction de la logique de **Mokujin** pour pouvoir faire ses checks avec l'une ou l'autre version.
+- Correction du goal **All Arcade Mode Clear** pour ne demander qu'une seule version de **Mokujin**.
 
 ### Version 0.1.0
 
-**Modifications**  
-- Création des objets pour les catégories **Personnages**, **Game Mode** et **Difficulty**.  
-- Ajout des 2 Goals cités plus haut.  
-- Ajout de tous les checks pour chaque personnage pour les modes Arcade, Time Attack, Survivor, Tekken Ball, Tekken Force.
+**Modifications**
+- Cr?ation des objets pour les cat?gories **Characters**, **Game Mode** et **Difficulty**.
+- Ajout des premiers goals.
+- Ajout des checks pour les modes **Arcade**, **Time Attack**, **Survival**, **Tekken Ball** et **Tekken Force**.
 
 ## Comment contribuer
-Toutes les contributions sont les bienvenues :
-
-- **Retours** : Jouez et partagez vos impressions sur le gameplay et la documentation.  
-- **Code** : Envoyez des *pull requests* avec des corrections de bugs ou de nouvelles fonctionnalités.  
-- **Documentation** : Améliorez ce fichier README ou ajoutez d’autres documents.
+Toutes les contributions sont les bienvenues : retours de jeu, corrections, documentation ou nouvelles id?es de checks.
 
 ## Contact
-Si vous avez des questions ou si vous êtes streamer, n’hésitez pas à nous contacter sur le Discord Archipelago ou à ouvrir une issue sur GitHub. Je répondrai dès que possible.
-
-Nous avons hâte de voir comment vous contribuerez à l’évolution de ce projet !
+Si vous avez des questions ou si vous ?tes streamer, contactez-nous sur le Discord Archipelago ou ouvrez une issue GitHub. Je r?pondrai d?s que possible.

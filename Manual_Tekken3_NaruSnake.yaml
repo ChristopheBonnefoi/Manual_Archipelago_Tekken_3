@@ -32,10 +32,12 @@ description: Default Manual_Tekken3_NaruSnake Template
 
 game: Manual_Tekken3_NaruSnake
 requires:
-  version: 0.6.1 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.7 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_Tekken3_NaruSnake:
-  # Game Options
+  ################
+  # Game Options #
+  ################
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
     # 
@@ -45,8 +47,9 @@ Manual_Tekken3_NaruSnake:
     # Minimum value is 0
     # Maximum value is 99
     random: 0
-    random-low: 0
-    random-high: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-99: 0 # random value between 0 and 99
     disabled: 0 # equivalent to 0
     normal: 50 # equivalent to 50
     extreme: 0 # equivalent to 99
@@ -62,45 +65,108 @@ Manual_Tekken3_NaruSnake:
 
   goal:
     # How to End your Randomized playthrough.
-    all arcade mode clear: 50
-    king of iron fist tournament token: 0
+    king of iron fist tournament token: 50
+    all arcade mode clear: 0
+    all arcade mode clear with boys: 0
+    all arcade mode clear with girls: 0
+    all tekken ball mode clear: 0
+    all tekken ball mode clear with boys: 0
+    all tekken ball mode clear with girls: 0
+    all time attack mode clear: 0
+    all time attack mode clear with boys: 0
+    all time attack mode clear with girls: 0
+    all tekken force mode clear: 0
+    all tekken force mode clear with boys: 0
+    all tekken force mode clear with girls: 0
+    all survival mode clear: 0
+    all survival mode clear with boys: 0
+    all survival mode clear with girls: 0
+    full game completion: 0
+    full game completion with boys: 0
+    full game completion with girls: 0
+    full game completion + king of iron fist tournament token: 0
+    full game completion  + king of iron fist tournament token with boys: 0
+    full game completion  + king of iron fist tournament token with girls: 0
 
-  DLC_enabled:
-    # Is the Dlc enabled?
+  ##############
+  # Game Modes #
+  ##############
+  arcade_mode:
+    # Include Arcade Mode progression items and Arcade Mode checks.
+    # If an Arcade Mode goal is selected, this option is forced on to keep the goal reachable.
     'false': 0
     'true': 50
 
-  # Example Options
-  Example_Toggle:
-    # This is a Toggle
-    # A simple boolean, aka True or False set the initial value with "default"
+  time_attack_mode:
+    # Include Time Attack Mode progression items and Time Attack Mode checks.
+    # If a Time Attack Mode goal is selected, this option is forced on to keep the goal reachable.
+    'false': 0
+    'true': 50
+
+  survival_mode:
+    # Include Survival Mode progression items and Survival Mode checks.
+    # If a Survival Mode goal is selected, this option is forced on to keep the goal reachable.
+    'false': 0
+    'true': 50
+
+  team_battle_mode:
+    # Include Team Battle Mode progression items and Team Battle Mode checks.
+    # Full Game Completion goals adapt to the enabled game modes.
+    'false': 0
+    'true': 50
+
+  tekken_ball_mode:
+    # Include Tekken Ball Mode progression items, ball items, and Tekken Ball checks.
+    # If a Tekken Ball Mode goal is selected, this option is forced on to keep the goal reachable.
+    'false': 0
+    'true': 50
+
+  tekken_force_mode:
+    # Include Tekken Force Mode progression items and Tekken Force checks.
+    # If a Tekken Force Mode goal is selected, this option is forced on to keep the goal reachable.
+    'false': 0
+    'true': 50
+
+  ####################
+  # Gameplay Options #
+  ####################
+  difficulty:
+    # Add Difficulty setting items to the item pool.
+    # Disabled by default so players can opt in only when they want this extra setting layer.
     'false': 50
     'true': 0
 
-  Example_Choice:
-    # This is a Choice
-    # Let the user pick from a list of values
-    # allow_custom_value let a player define their own text value
-    # Currently the only use for Choice in Manual outside of hooks is the goal
-    start: 50
-    test: 0
+  fight_count:
+    # Add Fight Count setting items to the item pool.
+    # Disabled by default so players can opt in only when they want this extra setting layer.
+    'false': 50
+    'true': 0
 
-  Example_Range:
-    # This is a Range
-    # Allow the player to specify a value between 'start' and 'end'
-    # if you include a "values" you can define the label for certain values
-    # Currently the only use for Range in Manual outside of hooks is 'filler_trap'
+  round_time:
+    # Add Round Time setting items to the item pool.
+    # Disabled by default so players can opt in only when they want this extra setting layer.
+    'false': 50
+    'true': 0
+
+  ################
+  # Goal Options #
+  ################
+  kift_emblems_required:
+    # Choose how many KIFT Emblems are required for King of Iron Fist Tournament emblem goals.
+    # KIFT Emblems are only added to the item pool when the selected goal requires them.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 10
+    # Minimum value is 1
+    # Maximum value is 100
+    100: 50
     random: 0
-    random-low: 0
-    random-high: 0
-    example: 0 # equivalent to 2
-    default: 50 # equivalent to 1
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-100: 0 # random value between 1 and 100
 
-  # Item & Location Options
+  ###########################
+  # Item & Location Options #
+  ###########################
   local_items:
     # Forces these items to be in their native world.
     []
@@ -110,11 +176,11 @@ Manual_Tekken3_NaruSnake:
     []
 
   start_inventory:
-    # Start with these items.
+    # Start with the specified amount of these items. Example: "Bomb: 1"
     {}
 
   start_inventory_from_pool:
-    # Start with these items and don't place them in the world.
+    # Start with the specified amount of these items and don't place them in the world. Example: "Bomb: 1"
     # 
     # The game decides what the replacement items will be.
     {}
@@ -137,4 +203,8 @@ Manual_Tekken3_NaruSnake:
 
   item_links:
     # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    # Generic items plando.
     []

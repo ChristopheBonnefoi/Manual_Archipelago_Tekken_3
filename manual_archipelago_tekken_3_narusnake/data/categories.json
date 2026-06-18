@@ -1,9 +1,87 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
+    "Difficulty": {
+        "hidden": true,
+        "yaml_option": [
+            "difficulty"
+        ]
+    },
+    "Fight_Count": {
+        "hidden": true,
+        "yaml_option": [
+            "fight_count"
+        ]
+    },
+    "Round_Time": {
+        "hidden": true,
+        "yaml_option": [
+            "round_time"
+        ]
+    },
+    "Options": {
+        "hidden": false
+    },
+    "Arcade_Mode": {
+        "hidden": true,
+        "yaml_option": [
+            "arcade_mode"
+        ]
+    },
+    "Time_Attack_Mode": {
+        "hidden": true,
+        "yaml_option": [
+            "time_attack_mode"
+        ]
+    },
+    "Survival_Mode": {
+        "hidden": true,
+        "yaml_option": [
+            "survival_mode"
+        ]
+    },
+    "Team_Battle_Mode": {
+        "hidden": true,
+        "yaml_option": [
+            "team_battle_mode"
+        ]
+    },
+    "Team_Battle": {
+        "hidden": true,
+        "yaml_option": [
+            "team_battle_mode"
+        ]
+    },
+    "Tekken_Ball_Mode": {
+        "hidden": true,
+        "yaml_option": [
+            "tekken_ball_mode"
+        ]
+    },
+    "Tekken_Ball": {
+        "hidden": true,
+        "yaml_option": [
+            "tekken_ball_mode"
+        ]
+    },
+    "Tekken_Force_Mode": {
+        "hidden": true,
+        "yaml_option": [
+            "tekken_force_mode"
+        ]
+    },
+    "Tekken_Force_Stages": {
+        "hidden": true,
+        "yaml_option": [
+            "tekken_force_mode"
+        ]
+    },
+    "Boy": {
         "hidden": true
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "Girl": {
+        "hidden": true
+    },
+    "Filler": {
+        "hidden": false
     }
 }
