@@ -32,6 +32,7 @@ Ce projet est actuellement en **b?ta**. Il couvre le jeu complet ainsi que les m
 - **Modes de jeu** : Arcade, Time Attack, Survival, Team Battle, Tekken Ball et Tekken Force peuvent ?tre activ?s ou d?sactiv?s. Les goals sp?cifiques forcent leur mode requis pour ?viter un goal impossible.
 - **R?glages de gameplay** : les pools **Difficulty**, **Fight Count** et **Round Time** sont optionnels et d?sactiv?s par d?faut.
 - **KIFT Emblems requis** : les goals ? tokens peuvent demander entre **1 et 100** KIFT Emblems.
+- **KIFT Emblems Available Percentage** : les goals ? tokens peuvent placer des KIFT Emblems en plus dans le pool, avec la quantit? requise en progression et le surplus en useful.
 
 ## Objets filler
 Les **TEKKEN Points** restent comme fallback technique, mais le filler normal utilise maintenant des objets li?s aux personnages dans la cat?gorie visible **Filler**. Ces objets ont un count de base ? `0`, donc ils sont g?n?r?s uniquement quand Archipelago doit remplir des emplacements libres. Bref, les slips maudits n'envahissent pas le pool tant qu'on ne leur demande pas de travailler.
@@ -42,6 +43,14 @@ Les **TEKKEN Points** restent comme fallback technique, mais le filler normal ut
 - Documentation suppl?mentaire pour les teams et rivalit?s moins ?videntes.
 
 ## Notes de version
+
+### Version 1.1.1 - Token update
+
+**Modifications**
+- Ajout de l'option configurable **KIFT Emblems Available Percentage** pour les goals ? tokens.
+- Les **KIFT Emblems** requis pour le goal s?lectionn? restent class?s en progression.
+- Le surplus optionnel de **KIFT Emblems** est maintenant marqu? en useful.
+- La disponibilit? des tokens reste plafonn?e ? **100** KIFT Emblems.
 
 ### Version 1.1.0 - Massive update
 

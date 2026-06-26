@@ -29,6 +29,7 @@ MODE_GOAL_OPTIONS = {
 
 TOKEN_ITEM_NAME = "KIFT Emblem"
 TOKEN_OPTION_NAME = "kift_emblems_required"
+TOKEN_AVAILABLE_PERCENTAGE_OPTION_NAME = "kift_emblems_available_percentage"
 FILLER_CATEGORY_NAME = "Filler"
 FILLER_ITEM_NAMES = tuple(
     item["name"]
@@ -48,6 +49,16 @@ def _selected_goal_requires_tokens(world: World, multiworld: MultiWorld, player:
     goal_name = _selected_goal_name(world, multiworld, player)
     goal_location = world.location_name_to_location.get(goal_name, {})
     return TOKEN_ITEM_NAME in str(goal_location.get("requires", ""))
+
+
+def _required_token_count(multiworld: MultiWorld, player: int) -> int:
+    return max(1, min(100, int(get_option_value(multiworld, player, TOKEN_OPTION_NAME))))
+
+
+def _available_token_count(multiworld: MultiWorld, player: int) -> int:
+    required_count = _required_token_count(multiworld, player)
+    percentage = max(100, int(get_option_value(multiworld, player, TOKEN_AVAILABLE_PERCENTAGE_OPTION_NAME) or 100))
+    return max(required_count, min(100, (required_count * percentage + 99) // 100))
 
 
 def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int) -> str | bool:
@@ -78,7 +89,10 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 def before_create_items_all(item_config: dict[str, int | dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int | dict]:
     if _selected_goal_requires_tokens(world, multiworld, player):
-        item_config[TOKEN_ITEM_NAME] = max(1, min(100, int(get_option_value(multiworld, player, TOKEN_OPTION_NAME))))
+        required_count = _required_token_count(multiworld, player)
+        available_count = _available_token_count(multiworld, player)
+        extra_count = available_count - required_count
+        item_config[TOKEN_ITEM_NAME] = {"progression": required_count, "useful": extra_count} if extra_count else required_count
     else:
         item_config[TOKEN_ITEM_NAME] = 0
 

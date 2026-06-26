@@ -125,6 +125,20 @@
             "range_end": 100,
             "default": 100,
             "group": "Goal Options"
+        },
+        "kift_emblems_available_percentage": {
+            "display_name": "KIFT Emblems Available Percentage",
+            "description": [
+                "Controls how many KIFT Emblem items are placed compared to the required amount.",
+                "100 means only the required amount is placed. 200 means double the required amount is placed.",
+                "For example, 25 required tokens with 200 percent will place 50 KIFT Emblems in the item pool.",
+                "The final amount is capped at 100 KIFT Emblems."
+            ],
+            "type": "Range",
+            "range_start": 100,
+            "range_end": 400,
+            "default": 100,
+            "group": "Goal Options"
         }
     }
 }

@@ -32,6 +32,7 @@ This project is currently in **beta**. It covers the full game and all single-pl
 - **Game Modes**: Arcade, Time Attack, Survival, Team Battle, Tekken Ball, and Tekken Force can be enabled or disabled. Mode-specific goals force their required mode on so the selected goal remains reachable.
 - **Gameplay Options**: Difficulty, Fight Count, and Round Time item pools are optional and disabled by default.
 - **KIFT Emblems Required**: token goals can require between **1 and 100** KIFT Emblems.
+- **KIFT Emblems Available Percentage**: token goals can place extra KIFT Emblems in the pool, with the required amount kept as progression and the surplus marked useful.
 
 ## Filler Items
 **TEKKEN Points** are kept as a technical fallback, but normal filler now uses character-themed items in the visible **Filler** category. These items have a base count of `0`, so they are generated only when Archipelago needs extra filler and do not increase the required item pool.
@@ -42,6 +43,14 @@ This project is currently in **beta**. It covers the full game and all single-pl
 - More documentation for unusual team and rivalry checks.
 
 ## Release Notes
+
+### Version 1.1.1 - Token update
+
+**Changes**
+- Added configurable **KIFT Emblems Available Percentage** for token goals.
+- KIFT Emblems required for the selected goal stay classified as progression.
+- Optional surplus KIFT Emblems are now marked as useful.
+- Token item availability remains capped at **100** KIFT Emblems.
 
 ### Version 1.1.0 - Massive update
 
